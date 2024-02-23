@@ -1,0 +1,13 @@
+// " " => double quote
+// ''  => single quote
+// `` => back tick
+// ; => semi colon
+// : => colon
+//  , => comma
+//  / => slash (forward slash)
+// \ => back slash
+// || => pipe
+// && => ampersand
+// [] => square bracket
+// {} => curly bracket
+// () => small bracket
